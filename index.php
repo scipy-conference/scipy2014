@@ -37,6 +37,19 @@ session_start();
     <p>We look forward to a very exciting conference and hope to see you at the 2014 conference.</p>
   </div>
   <div class="hp_cell" style="margin: 0 2%;">
+    <h2>Be Inspired</h2>
+    <p>We are excited to announce our first keynote speaker.</p>
+      <div class="row" style="border-top: 1px solid #cadbeb;">
+        <div class="free_cell">
+          <img src="img/hs_wilson.jpg" width="40" height="27" alt="Greg Wilson" />
+        </div>
+        <div class="free_cell" style="max-width: 75%;">
+          <p style="margin-bottom: 0;"><em>Greg Wilson is the creator of Software Carpentry, a crash course in computing skills for scientists and engineers.  He has worked for 25 years <a href="keynotes.php">[more...]</a></p>
+        </div>
+      </div>
+
+  </div>
+  <div class="hp_cell" style="margin: 0">
     <h2>Schedule</h2>
         <p>The 2014 conference will consist of two days of tutorials followed by <strong>three days of presentations</strong>, and concludes with two days of developer sprints on projects of interest to the attendees.</p>
         <?php echo $display_dates ?>
@@ -86,14 +99,55 @@ session_start();
           </div>
         </div>
   </div>
+</div>
+
+<div class="row">
   <div class="hp_cell">
     <h2>What's it like?</h2>
     <p>Watch the video highlighting last years conference.</p>
     <a href="video_highlights.php"><img src="img/video_placeholder.png" width="100%" alt="SciPy 2013 video highlights" class="hp_image" /></a>
     <p style="font-size: 0.75em; color: #333; text-align: right; margin-right: 1em;"><em>Video courtesy of Enthought, Inc.</em></p>
   </div>
-</div>
 
+  <div class="hp_cell" style="margin: 0 2%;">
+    <h2>Plan</h2>
+
+      <p>Early-Bird Session Pricing</p>
+
+<table>
+  <tr>
+    <th>Session </th>
+    <th><div align="right">Std Price</div></th>
+    <th><div align="right">Academic<br />Price</div></th>
+    <th><div align="right">Student<br />Price</div></th>
+  </tr>
+  <tr>
+    <td><strong>Tutorials</strong><br />Jul 6th&nbsp;-&nbsp;7th</td>
+    <td align="right"> $ 475</td>
+    <td align="right"> $ 375</td>
+    <td align="right"> $ 275</td>
+  </tr>
+  <tr>
+    <td><strong>Conference</strong><br />Jul 8th&nbsp;-&nbsp;10th</td>
+    <td align="right"> $ 425</td>
+    <td align="right"> $ 325</td>
+    <td align="right"> $ 225</td>
+  </tr>
+</table>
+
+<p>Registration will be opening soon.</p>
+
+  </div>
+  <div class="hp_cell">
+    <h2>Plot</h2>
+    <img src="img/plot_contest.png"  width="100%" alt="plot contest"  class="hp_image" />
+    <p>In memory of John Hunter, in 2013, we announced the first</p>
+    <p style="text-align: center; font-weight: bold;"><a href="../jhepc2013/">SciPy John Hunter Excellence in Plotting Competition</a>.</p>
+    <p>We pleased to continue this competition again this year for 2014.</p>
+    <p>More details to come.</p>
+  </div>
+    
+  </div>
 <div class="row">
   <div class="hp_cell">
     <h2>Stay Informed</h2>
@@ -139,46 +193,7 @@ session_start();
 </div>
 
   </div>
-  <div class="hp_cell" style="margin: 0 2%;">
-    <h2>Plan</h2>
-
-      <p>Early-Bird Session Pricing</p>
-
-<table>
-  <tr>
-    <th>Session </th>
-    <th><div align="right">Std Price</div></th>
-    <th><div align="right">Academic<br />Price</div></th>
-    <th><div align="right">Student<br />Price</div></th>
-  </tr>
-  <tr>
-    <td><strong>Tutorials</strong><br />Jul 6th&nbsp;-&nbsp;7th</td>
-    <td align="right"> $ 475</td>
-    <td align="right"> $ 375</td>
-    <td align="right"> $ 275</td>
-  </tr>
-  <tr>
-    <td><strong>Conference</strong><br />Jul 8th&nbsp;-&nbsp;10th</td>
-    <td align="right"> $ 425</td>
-    <td align="right"> $ 325</td>
-    <td align="right"> $ 225</td>
-  </tr>
-</table>
-
-<p>Registration will be opening soon.</p>
-
-  </div>
-  <div class="hp_cell">
-    <h2>Plot</h2>
-    <img src="img/plot_contest.png"  width="100%" alt="plot contest"  class="hp_image" />
-    <p>In memory of John Hunter, in 2013, we announced the first</p>
-    <p style="text-align: center; font-weight: bold;"><a href="../jhepc2013/">SciPy John Hunter Excellence in Plotting Competition</a>.</p>
-    <p>We pleased to continue this competition again this year for 2014.</p>
-    <p>More details to come.</p>
-  </div>
-    
-  </div>
-
+</div>
 
 </section>
 
