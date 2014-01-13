@@ -44,7 +44,7 @@ session_start();
           <img src="img/hs_wilson.jpg" width="40" height="27" alt="Greg Wilson" />
         </div>
         <div class="free_cell" style="max-width: 75%;">
-          <p style="margin-bottom: 0;"><em>Greg Wilson is the creator of Software Carpentry, a crash course in computing skills for scientists and engineers.  He has worked for 25 years <a href="keynotes.php">[more...]</a></p>
+          <p style="margin-bottom: 0;"><em>Greg Wilson is the creator of Software Carpentry, a crash course in computing skills for scientists and engineers.  He has worked for 25 years <a href="keynotes.php"></em>[more...]</a></p>
         </div>
       </div>
 
