@@ -27,7 +27,7 @@
 <h1>SciPy 2014 Keynote Speakers</h1>
 
 <div class="biobox">
-  <h2><a id="Wilson" name="Wilson">Greg WIlson</a></h2>
+  <h2><a id="Wilson" name="Wilson">Greg Wilson</a></h2>
   <div class="cell" style="width: 10em;">
   <img src="img/hs_wilson.jpg" class="sideslung" width="161" height="120" alt="Greg Wilson" />
   </div>
